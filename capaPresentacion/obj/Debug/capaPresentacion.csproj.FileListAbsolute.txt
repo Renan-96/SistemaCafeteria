@@ -1,0 +1,10 @@
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.MenuCafeteria.resources
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.pdb
