@@ -8,3 +8,11 @@ C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\Sistem
 C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
 C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.exe
 C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.MT_categorias.resources
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaEntidades.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaNegocio.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaEntidades.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaNegocio.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete

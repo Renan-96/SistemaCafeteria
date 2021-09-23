@@ -1,4 +1,5 @@
-﻿using System;
+﻿using capaNegocio;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,19 +11,18 @@ using System.Windows.Forms;
 
 namespace capaPresentacion
 {
-    public partial class MenuCafeteria : Form
+    public partial class MT_categorias : Form
     {
+        categoriaBL categoria = new categoriaBL();
 
-        public MenuCafeteria()
+        public MT_categorias()
         {
             InitializeComponent();
         }
 
-        private void categoriasToolStripMenuItem_Click(object sender, EventArgs e)
+        private void MT_categorias_Load(object sender, EventArgs e)
         {
-            MT_categorias obj = new MT_categorias();
-            // obj.MdiParent = this;
-            obj.ShowDialog();
+            dataGridView1.DataSource = categoria.Listado().Tables[0];
         }
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.pdb

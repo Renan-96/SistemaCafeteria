@@ -1,0 +1,9 @@
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\bin\Debug\capaEntidades.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\bin\Debug\capaEntidades.pdb
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\obj\Debug\capaDatos.csprojAssemblyReference.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\obj\Debug\capaDatos.csproj.CopyComplete
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaDatos\obj\Debug\capaDatos.pdb
