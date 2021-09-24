@@ -1,4 +1,5 @@
 ﻿using capaDatos;
+using capaEntidades;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -16,6 +17,11 @@ namespace capaNegocio
         public DataSet Listado() 
         {
             return dato.Listado("SELECT * FROM CATEGORIAS");
+        }
+
+        public int guardar(CategoriaEntity categoria)
+        {
+            return dato.ejecutar("INSERT INTO CATEGORIAS(CODIGO,NOMBRE) VALUES(" + categoria.codigo + ",'" + categoria.nombre + "')");    
         }
     }
 }
