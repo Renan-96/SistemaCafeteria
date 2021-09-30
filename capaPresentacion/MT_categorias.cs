@@ -101,21 +101,30 @@ namespace capaPresentacion
                 MessageBox.Show("Complete todo los datos...!!", "Error de datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
+            DialogResult a = MessageBox.Show("Desea actualizar los datos!!", "Modificar Categoria", MessageBoxButtons.YesNo, MessageBoxIcon.Information);
+            if (a == DialogResult.Yes)
+            {
                 CategoriaEntity cat = new CategoriaEntity();
                 cat.codigo = int.Parse(txt_codigo.Text);
                 cat.nombre = txt_nombre.Text;
                 categoria.modificar(cat);
                 listar();
                 limpiar();
+            }
+            
         }
 
         private void btn_eliminar_Click(object sender, EventArgs e)
         {
-            CategoriaEntity cat = new CategoriaEntity();
-            cat.codigo = int.Parse(txt_codigo.Text);
-            categoria.eliminar(cat);
-            listar();
-            limpiar();
+            DialogResult suprimir = MessageBox.Show("Desea eliminar esta categoria!!", "Eliminar Categoria", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            if (suprimir == DialogResult.Yes)
+            {
+                CategoriaEntity cat = new CategoriaEntity();
+                cat.codigo = int.Parse(txt_codigo.Text);
+                categoria.eliminar(cat);
+                listar();
+                limpiar();
+            }      
         }
 
         private void txt_buscar_TextChanged(object sender, EventArgs e)
