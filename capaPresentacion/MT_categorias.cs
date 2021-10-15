@@ -66,7 +66,13 @@ namespace capaPresentacion
         {
             if (txt_codigo.Text == "" || txt_nombre.Text == "")
             {
-                MessageBox.Show("Complete todo los datos...!!","Error de datos",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MessageBox.Show("Complete todo los datos...!!", "Error de datos", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (categoria.validarCodigo(int.Parse(txt_codigo.Text)))
+            {
+                MessageBox.Show("El codigo ya se encuentra registrado!!", "Error en codigo", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
             CategoriaEntity cat = new CategoriaEntity();
@@ -111,7 +117,6 @@ namespace capaPresentacion
                 listar();
                 limpiar();
             }
-            
         }
 
         private void btn_eliminar_Click(object sender, EventArgs e)
@@ -124,7 +129,7 @@ namespace capaPresentacion
                 categoria.eliminar(cat);
                 listar();
                 limpiar();
-            }      
+            }
         }
 
         private void txt_buscar_TextChanged(object sender, EventArgs e)
@@ -132,6 +137,24 @@ namespace capaPresentacion
             dataGridView1.DataSource = categoria.buscar(txt_buscar.Text).Tables[0];
             dataGridView1.Columns[0].Width = 80;
             dataGridView1.Columns[1].Width = 235;
+        }
+
+        private void txt_codigo_Leave(object sender, EventArgs e)
+        {
+            if (txt_codigo.Text != "")
+            {
+                if (categoria.validarCodigo(int.Parse(txt_codigo.Text)))
+                {
+                    MessageBox.Show("El codigo ya se encuentra registrado!!", "Error en codigo", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    txt_codigo.Text = "";
+                    txt_codigo.Focus();
+                }
+            }
+        }
+
+        private void btn_excel_Click(object sender, EventArgs e)
+        {
+            global.GridAExcel(dataGridView1);
         }
     }
 }

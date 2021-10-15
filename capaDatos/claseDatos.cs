@@ -34,7 +34,7 @@ namespace capaDatos
             DataSet dt = new DataSet();
             SqlDataAdapter ad = new SqlDataAdapter(query, conexion);
             ad.Fill(dt);
-            Desconectar();
+            Desconectar();  
             return dt;
         }
 

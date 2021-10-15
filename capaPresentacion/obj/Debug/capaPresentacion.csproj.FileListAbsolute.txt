@@ -16,3 +16,7 @@ C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\Sistem
 C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaNegocio.pdb
 C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\bin\Debug\capaDatos.pdb
 C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.csproj.ResolveComReference.cache
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.MT_proveedores.resources
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.MT_producto.resources
+C:\Users\renan\Desktop\TNS Analista programador\Construcción de Software\SistemaCafeteria\SistemaCafeteria\capaPresentacion\obj\Debug\capaPresentacion.MT_usuario.resources
